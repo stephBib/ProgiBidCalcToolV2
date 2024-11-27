@@ -20,7 +20,7 @@
 
   </div>
   <br />
-  <!-- Results -->
+  <!-- Results Display -->
   <div class="container" style="margin-top: 50px; width: 900px;">
     <table border="1" class="table table-bordered">
       <thead>
