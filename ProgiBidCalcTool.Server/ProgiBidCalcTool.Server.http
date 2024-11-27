@@ -1,0 +1,6 @@
+@ProgiBidCalcTool.Server_HostAddress = http://localhost:5230
+
+GET {{ProgiBidCalcTool.Server_HostAddress}}/ProgiBidCalc/
+Accept: application/json
+
+###
